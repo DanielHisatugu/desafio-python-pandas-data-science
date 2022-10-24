@@ -4,9 +4,9 @@ Aplicamos um conjunto de tarefas de ciência de dados do mundo real usando a bib
 
 Utilizamos o Python com Pandas e Matplotlib para analisar e responder a perguntas de negócios sobre o faturament das vendas do ano de 2009. Os dados contêm centenas de milhares de compras em lojas de eletrônicos divididas por mês, tipo de produto, custo unitário, preço unitário, quantidade vendida, descontos concedidos, valor de venda, fabricante, produto etc.
 
-![relatorio](/home/daniel/workspace/dio-ger-tech-unimed-bh/relatorio.png)
+![relatorio](/relatorio.png)
 
-![grafico](/home/daniel/workspace/dio-ger-tech-unimed-bh/grafico.png)
+![grafico](/grafico.png)
 
 **Depois de limpar um pouco nossos dados, movemos a seção de exploração de dados.** Nesta seção, exploramos questões de negócios de alto nível relacionadas aos nossos dados, apresentando relatórios e gráficos:
 
